@@ -21,4 +21,9 @@
   - Java must be installed
   
 ## Output
-  - Detailed Output explanation coming...........
+  - APDEX (Application Performance Index) Result:
+  - ![image](https://user-images.githubusercontent.com/52327199/194132477-190adc72-7641-4839-a57e-7983bd032098.png)
+  - Request Summary:
+  - ![image](https://user-images.githubusercontent.com/52327199/194132584-b1ff73b8-e49a-496c-8f58-926cc8e738fd.png)
+
+FOR A DETAILED REPORT, PLEASE CHECK INDEX.HTML
