@@ -1,6 +1,7 @@
 # dmoney-api-jmx
 
 ## In this project I tried to implement some API using JMeter.
+  - Used link: https://www.getpostman.com/collections/a8f908e0ee1d77cb6f85
 
 ## Technology and Tools Used
   - JMeter
